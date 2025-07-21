@@ -1,0 +1,7 @@
+yfinance
+pandas
+prophet
+matplotlib
+schedule
+smtplib
+email-validator
