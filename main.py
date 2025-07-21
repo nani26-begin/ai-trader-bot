@@ -2,10 +2,10 @@ from smartapi import SmartConnect
 import datetime
 
 # Set your simulated Angel One credentials
-API_KEY = "your_api_key"
-CLIENT_CODE = "your_client_code"
-PASSWORD = "your_password"
-TOTP_SECRET = "your_totp_secret"  # If 2FA is enabled
+API_KEY = "FLfQ4vBO"
+CLIENT_CODE = "K50911931"
+PASSWORD = "Ajitbabu@123"
+TOTP_SECRET = "4CZSNDX24JIKYLEGXZLEPVK6U4"  # If 2FA is enabled
 
 # Simulated AI decision (buy if price < 1000)
 def simple_trading_logic(price):
